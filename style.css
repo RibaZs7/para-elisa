@@ -9,14 +9,14 @@ h1{
     font-weight: 150px;
 }
 div.buttons {
-    display: grid;
+    display: block;
     grid-template-columns: 1fr;
     grid-column-gap: 10px;
     margin-top: 10px;
 }
 
 button{
-    padding: 10px 10px;
+    padding: 10px 40px;
     border-radius: 5px;
     font-family: Arial, Helvetica, sans-serif;
     border: transparent;
